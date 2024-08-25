@@ -7,9 +7,9 @@ Este repositório contém as atividades que fiz durante o curso de programação
 1. **Lógica de Programação Algoritmos usando Java (Iniciante)**
    - Conceitos de programação
    - Introdução à linguagem Java
-   - Estrutura sequencial (com atividades)
-   - Estrutura condicional (com atividades)
-   - Estruturas repetitivas (com atividades)
+   - Estrutura sequencial
+   - Estrutura condicional
+   - Estruturas repetitivas
 
 
 2. **Java e Programação Orientada a Objetos (PARTE 1)**
