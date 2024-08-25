@@ -1,7 +1,13 @@
 
 <div>
-  <h1>Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos.</h1>
-  <p>Fórmula da área: area = π . raio2 <br>Considere o valor de π = 3.14159</p>
+  <h2>
+    Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos.
+  </h2>
+  
+  <p>
+    Fórmula da área: area = π . raio2 <br>Considere o valor de π = 3.14159
+  </p>
+  
   <h3>Exemplos</h3>
     <table>
         <tr>
