@@ -14,16 +14,32 @@
             <th>Saída</th>
         </tr>
         <tr>
-            <td>25<br>100<br>20.50</td>
-            <td>NUMBER = 25 <br> SALARY = U$ 550.00</td>
+            <td>
+              25<br>
+              100<br>
+              5.50</td>
+            <td>
+              NUMBER = 25 <br> 
+              SALARY = U$ 550.00</td>
         </tr>
         <tr>
-            <td>1<br>100<br>5.50</td>
-            <td>NUMBER = 1 <br> SALARY = U$  4100.00</td>
+            <td>
+              1<br>
+              200<br>
+              20.50</td>
+            <td>
+              NUMBER = 1 <br> 
+              SALARY = U$  4100.00</td>
         </tr>
         <tr>
-            <td>6<br>145<br>15.55</td>
-            <td>NUMBER = 6 <br> SALARY = U$ 2254.75</td>
+            <td>
+              6<br>
+              145<br>
+              15.55</td>
+            <td>
+              NUMBER = 6 <br> 
+              SALARY = U$ 2254.75
+            </td>
         </tr>
     </table>
     </div>
