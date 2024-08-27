@@ -1,0 +1,65 @@
+<div>
+  <h2>
+    Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N * (N-1) * (N-2) * (N-3) * ... * 1.
+Lembrando que, por definição, fatorial de 0 é 1.
+  </h2>
+ 
+  
+  <h3>Exemplos</h3>
+    <table>
+        <tr>
+            <th>Entrada</th>
+            <th>Saída</th>
+        </tr>
+        <tr>
+            <td>
+              4
+            </td>
+            <td>
+              24
+            </td>
+        </tr>
+    </table>
+     <table>
+        <tr>
+            <th>Entrada</th>
+            <th>Saída</th>
+        </tr>
+        <tr>
+            <td>
+              1
+            </td>
+            <td>
+              1
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Entrada</th>
+            <th>Saída</th>
+        </tr>
+        <tr>
+            <td>
+              5
+            </td>
+            <td>
+              120
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Entrada</th>
+            <th>Saída</th>
+        </tr>
+        <tr>
+            <td>
+              0
+            </td>
+            <td>
+              1
+            </td>
+        </tr>
+    </table>
+    </div>
