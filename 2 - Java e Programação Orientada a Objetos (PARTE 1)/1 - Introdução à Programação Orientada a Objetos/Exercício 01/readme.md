@@ -1,7 +1,10 @@
-# Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe como mostrado no projeto ao lado.
-
 <div>
-  <h2>Exemplos</h1>
+  <h2>
+    Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe como mostrado no projeto ao lado.
+  </h2>
+
+
+  <h3>Exemplos</h3>
     <table>
         <tr>
             <th>Rectangle</th>
