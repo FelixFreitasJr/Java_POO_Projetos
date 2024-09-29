@@ -26,9 +26,9 @@
   <p>
     Name: Joao Silva <br>
     Gross salary: 6000.00 <br>
-    Tax: 1000.00 <br>
-    Employee: Joao Silva, $ 5000.00 <br>
-    Which percentage to increase salary? 10.0 <br>
+    Tax: 1000.00 <br><br>
+    Employee: Joao Silva, $ 5000.00 <br><br>
+    Which percentage to increase salary? 10.0 <br><br>
     Updated data: Joao Silva, $ 5600.00 <br>
   </p>
 </div>
