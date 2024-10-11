@@ -1,4 +1,4 @@
-<style>
+<html><style>
 b{
 color:red;
 }
@@ -37,3 +37,4 @@ TV, $1000.00, Quantity: 1, Subtotal: $1000.00<br>
 Mouse, $40.00, Quantity: 12 Subtotal: $80.00<br>
 Total price: $1080.00<br>
 </p>
+</html>
