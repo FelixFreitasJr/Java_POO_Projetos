@@ -1,9 +1,3 @@
-<html><style>
-b{
-color:red;
-}
-</style>
-
 <h3>
     Ler os dados de um pedido com N itens (N fornecido pelo usuario). Depois, mostrar um sumario do pedido. 
     <p>
@@ -36,5 +30,3 @@ Order items:<br>
 TV, $1000.00, Quantity: 1, Subtotal: $1000.00<br>
 Mouse, $40.00, Quantity: 12 Subtotal: $80.00<br>
 Total price: $1080.00<br>
-</p>
-</html>
