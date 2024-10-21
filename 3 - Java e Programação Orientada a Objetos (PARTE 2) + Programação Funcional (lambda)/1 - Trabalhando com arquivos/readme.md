@@ -11,7 +11,26 @@ arquivo de origem, contendo apenas o nome e o valor total para
 aquele item (preço unitário multiplicado pela quantidade),
 conforme exemplo.</p>
 <hr>
+
+<h3>Exemplo</h3>
+
 <p>
+Source file:
+<br>
+TV LED,1290.99,1<br>
+Video Game Chair,350.50,3<br>
+Iphone X,900.00,2<br>
+Samsung Galaxy9,850.00,2<br>
 </p>
+
+<p>
+Output file (out/summary.csv):
+<br>
+TV LED,1290.99<br>
+Video Game Chair,1051.50<br>
+Iphone X,1800.00,2<br>
+Samsung Galaxy9,1700.00,2<br>
+</p>
+
 <body>
 </html>
