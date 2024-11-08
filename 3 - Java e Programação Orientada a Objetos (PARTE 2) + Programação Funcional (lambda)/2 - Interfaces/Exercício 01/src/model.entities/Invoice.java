@@ -14,7 +14,7 @@ public class Invoice{
     }
 
     public Double getBasicPayment(){
-        return getBasicPayment;
+        return basicPayment;
     }
 
     public void setBasicPayment(Double basicPayment){

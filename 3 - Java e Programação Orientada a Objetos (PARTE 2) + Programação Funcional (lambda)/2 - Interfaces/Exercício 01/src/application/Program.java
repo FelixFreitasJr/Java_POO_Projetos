@@ -12,6 +12,7 @@ import model.entities.Vehicle;
 import model.services.BrazilTaxService;
 import model.services.RentalService;
 
+@SuppressWarnings("unused")
 public class Program {
 
 	public static void main(String[] args) throws ParseException {
@@ -47,4 +48,3 @@ public class Program {
 
         sc.close();
     }
-}

@@ -1,10 +1,10 @@
 package model.entities;
 
-import java.time.LocaDateTime;
+import java.time.LocalDateTime;
 
 public class CarRental{
 
-    private LocaDateTime start;
+    private static LocalDateTime start;
     private LocalDateTime finish;
 
     private Vehicle vehicle;
@@ -13,22 +13,24 @@ public class CarRental{
     public CarRental(){
     }
 
-    public CarRental(LocalDateTime start, LocalDateTime finish, Vehicle vehicle){
+    @SuppressWarnings("static-access")
+	public CarRental(LocalDateTime start, LocalDateTime finish, Vehicle vehicle){
         this.start = start;
         this.finish = finish;
         this.vehicle = vehicle;
         
     }
 
-    public LocaDateTime getStart(){
+    public static LocalDateTime getStart(){
         return start;
     }
 
-     public void setStart(LocalDateTime start){
+     @SuppressWarnings("static-access")
+	public void setStart(LocalDateTime start){
         this.start = start;
     }
 
-    public LocaDateTime getFinish(){
+    public LocalDateTime getFinish(){
         return finish;
     }
 
