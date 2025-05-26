@@ -1,8 +1,24 @@
-# Atividades de Programação em Java
+# Java POO Projetos
 
-Este repositório contém as atividades que fiz durante o curso de programação em Java. Cada módulo tem sua própria pasta com os exercícios resolvidos.
+Repositório de estudos, exercícios e projetos do curso de Java POO (Programação Orientada a Objetos) do básico ao avançado pela Udemy. Serve como caderno de registros do meu aprendizado, contendo códigos, anotações e referências aos projetos desenvolvidos ao longo do curso.
 
-## Módulos
+## ✨ Sobre o Repositório
+
+Aqui você encontra:
+- **Exercícios e exemplos** práticos de cada módulo do curso
+- **Projetos desenvolvidos** ao longo do aprendizado, do básico ao avançado
+- **Referências e links** para projetos completos (cada projeto terá seu próprio repositório, devidamente referenciado aqui)
+
+> Este repositório é dinâmico: será atualizado conforme avanço no curso e nos projetos.
+
+## 🚀 Estrutura
+
+- `exercicios/` — Resoluções de exercícios propostos no curso
+- `projetos/` — Projetos em desenvolvimento ou concluídos
+- `anotacoes/` — Anotações, resumos e dicas sobre Java e POO
+- `links.md` — Referências para repositórios externos de projetos finalizados
+
+## 📚 Conteúdo Estudado
 
 1. **Lógica de Programação Algoritmos usando Java (Iniciante)**
    - Conceitos de programação
@@ -61,18 +77,24 @@ Este repositório contém as atividades que fiz durante o curso de programação
    - Tratamento de exceções
   
 
-## Como usar este repositório
+## 💡 Como usar
 
-1. Clone o repositório para a sua máquina local.
-2. Navegue pelas pastas dos módulos para ver os exercícios resolvidos.
-3. Leia os arquivos de código-fonte para entender as soluções.
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/FelixFreitasJr/Java_POO_Projetos.git
+    ```
+2. Explore as pastas conforme o tema de interesse.
+3. Para rodar os projetos, utilize uma IDE Java (Eclipse, IntelliJ, VS Code) e Java instalado no seu computador.
 
-## Contato
+## 🙏 Agradecimentos
 
-Se tiver alguma dúvida ou quiser saber mais sobre o meu trabalho, sinta-se à vontade para entrar em contato!
+Agradeço aos instrutores e à comunidade Udemy por todo o material e suporte!
 
-<div>
-  <a href="https://instagram.com/felixfreitasjr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bacoipswich@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felixfreitasjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 📬 Contato
+
+- [GitHub](https://github.com/FelixFreitasJr)
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin) <!-- Substitua pelo seu LinkedIn -->
+
+---
+
+Feito com dedicação por **Felix Freitas Jr**
